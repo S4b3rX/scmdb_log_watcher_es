@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SCMDB.Watcher.Core/SCMDB.Watcher.Core.csproj" />
+    <Project Path="src/SCMDB.Watcher.Desktop/SCMDB.Watcher.Desktop.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SCMDB.Watcher.Core.Tests/SCMDB.Watcher.Core.Tests.csproj" />
+  </Folder>
+</Solution>
