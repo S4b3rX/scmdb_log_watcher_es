@@ -30,7 +30,8 @@ En este proyecto hay dos tipos de traduccion completamente distintos:
     sus archivos estan en [lang](lang) dentro del workspace.
 - Traduccion del juego Star Citizen:
     corresponde al paquete de idioma y datos publicados aparte para el juego.
-    su archivo principal esta en [star-citizen-es-data/lang/es-es.json](star-citizen-es-data/lang/es-es.json).
+    hoy su archivo en [star-citizen-es-data/lang/es-es.json](star-citizen-es-data/lang/es-es.json) debe entenderse como placeholder provisional.
+    la copia operativa real que usa la app watcher sigue estando en [lang/es-es.json](lang/es-es.json).
 
 No son la misma traduccion, no usan el mismo formato y no deben mezclarse en tareas, validaciones ni publicaciones.
 
